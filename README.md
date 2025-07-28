@@ -1,2 +1,2 @@
 # dmitsos_data
-Sample parsed data from micro-XRF and RAMAN analysis
+Sample parsed data from micro-XRF and Raman measurements on archaeological building materials. The instrumentation used was a custom-built portable micro-XRF and the BRAVO handheld Raman spectrometer. The file contains .csv files with elemental concentration values across the samples' profiles from laboratory measurements (micro-XRF) and Raman intensity values measured for a range of wavenumbers (cm-1) from in-situ analyses (Raman).
